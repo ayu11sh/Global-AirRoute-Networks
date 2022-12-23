@@ -1,0 +1,4 @@
+# Analysis of Global Air route Networks
+# Ayush Thakur 
+The air transportation industry has a great impact on the economy. In this, we analyze the air transportation network in the world to better understand its characteristics. The world's major airports are directly linked to hundreds of airports without intermediate routes.
+In this project we aim to identify the country with the highest relations i.e. Country which travels to and welcomes passengers from majority of countries and then perform a sentiment analysis of their residents who are actually confident with their answers and finally conclude with the impact Covid-19 had on airport travels.
